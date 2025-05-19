@@ -19,6 +19,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/j%C3%BAlio-rolim-b07522253/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:juliorolimguimaraesduarte@gmail.com)
 
-## 🐍 GitHub Snake
 
-![Snake animation](https://github.com/**SEU-USUÁRIO-AQUI**/**SEU-REPOSITÓRIO-AQUI**/blob/output/github-contribution-grid-snake.svg)
+## 📊 Minhas estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/Julio-rgb863">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julio-rgb863&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-rgb863&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
